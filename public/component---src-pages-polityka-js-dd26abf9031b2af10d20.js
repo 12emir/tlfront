@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{"4ruk":function(e,a,t){"use strict";t.r(a);var n=t("q1tI"),l=t.n(n),r=(t("jh8G"),t("Bl7J")),c=t("vrFN"),u=t("Br1v"),o=t("E2c0"),i=t("f9Ql");a.default=function(e){e.data;return l.a.createElement(l.a.Fragment,null,l.a.createElement(r.a,null,l.a.createElement(c.a,{title:"Page two"}),"polityka",l.a.createElement(i.a,null),l.a.createElement(o.a,null),l.a.createElement(u.a,null)))}}}]);
+//# sourceMappingURL=component---src-pages-polityka-js-dd26abf9031b2af10d20.js.map
